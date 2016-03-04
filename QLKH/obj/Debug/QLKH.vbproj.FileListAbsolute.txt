@@ -1,0 +1,34 @@
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.frmsanpham.resources
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.Resources.resources
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\bin\Debug\QLKH.exe
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\bin\Debug\QLKH.pdb
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\bin\Debug\QLKH.xml
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.exe
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.xml
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.pdb
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.frmkhachhang.resources
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.frmgiaodienchinh.resources
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.frmcapnhatsp.resources
+C:\Users\hp\Desktop\test 3\QLKH\QLKH\obj\Debug\QLKH.frmcapnhatkh.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.exe
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.xml
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.pdb
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\bin\Debug\QLKH.exe
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\bin\Debug\QLKH.pdb
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\bin\Debug\QLKH.xml
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.frmcapnhatsp.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.frmgiaodienchinh.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.frmcapnhatkh.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.frmkhachhang.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.frmsanpham.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.Resources.resources
+C:\Users\hp\Downloads\điện toán đám mây\New folder\test 3\QLKH\QLKH\obj\Debug\QLKH.vbproj.GenerateResource.Cache
+C:\Users\hp\Downloads\điện toán đám mây\New folder\hungbtps03386_Assigmet-Final_Điện toán đám mây\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\hp\Downloads\điện toán đám mây\New folder\hungbtps03386_Assigmet-Final_Điện toán đám mây\QLKH\QLKH\obj\Debug\QLKH.exe
+C:\Users\hp\Downloads\điện toán đám mây\New folder\hungbtps03386_Assigmet-Final_Điện toán đám mây\QLKH\QLKH\obj\Debug\QLKH.xml
+C:\Users\hp\Downloads\điện toán đám mây\New folder\hungbtps03386_Assigmet-Final_Điện toán đám mây\QLKH\QLKH\obj\Debug\QLKH.pdb
